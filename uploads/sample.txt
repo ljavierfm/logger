@@ -1,0 +1,422 @@
+23/11/2017 10:13:03:16
+	Iniciamos proceso de recarga: [SYNC][000879][20171123101303][101]
+
+23/11/2017 10:13:25:06
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
+#################################################################
+
+The following error was returned by the <Represen500.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:07
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+
+23/11/2017 10:13:25:08
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
+#################################################################
+
+The following error was returned by the <Represen500.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:09
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+
+23/11/2017 10:13:25:10
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
+#################################################################
+
+The following error was returned by the <Represen500.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:11
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+
+23/11/2017 10:13:25:12
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
+#################################################################
+
+The following error was returned by the <Represen500.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:12
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+
+23/11/2017 10:13:25:14
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
+#################################################################
+
+The following error was returned by the <Represen500.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:14
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+
+23/11/2017 10:13:25:31
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
+#################################################################
+
+The following error was returned by the <OptimizaSync.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:31
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
+
+23/11/2017 10:13:25:32
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
+#################################################################
+
+The following error was returned by the <OptimizaSync.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:32
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
+
+23/11/2017 10:13:25:33
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
+#################################################################
+
+The following error was returned by the <OptimizaSync.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:33
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
+
+23/11/2017 10:13:25:34
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
+#################################################################
+
+The following error was returned by the <OptimizaSync.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:34
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
+
+23/11/2017 10:13:25:35
+	Ha fallado EjecutarInsertUpdate.
+sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
+#################################################################
+
+The following error was returned by the <OptimizaSync.db> database
+Error Number = <99>
+Error Message:
+
+duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
+#################################################################
+
+23/11/2017 10:13:25:36
+	No se ha podido crear el campo.
+Sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
+
+23/11/2017 10:13:25:71
+	Proceso de recarga finalizado con éxito: [SYNC][000879][20171123101303][101]
+
+23/11/2017 10:13:36:81
+	Ha fallado EjecutarInsertUpdate.
+sql: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = '')
+#################################################################
+
+The following error was returned by the <Represen500.db> database
+Error Number = <99>
+Error Message:
+
+unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = '')
+#################################################################
+
+23/11/2017 10:13:36:81
+	No se ha podido actualizar el campo 'Estado' de la tabla 'Transacciones'
+
+0
+
+23/11/2017 11:38:20:11
+	Iniciamos proceso de envío: [ENV][000879][20171123113820][101]
+
+23/11/2017 11:38:20:73
+	DROP ClienteArticulo: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
+
+23/11/2017 11:38:20:81
+	DROP Rotaciones: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
+
+23/11/2017 11:38:20:94
+	DROP RotacionesFecha: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
+
+23/11/2017 11:38:20:98
+	DROP EstudioVentas: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
+
+23/11/2017 11:38:21:01
+	DROP Articulos: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
+
+23/11/2017 11:38:21:16
+	RepararDB: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
+
+23/11/2017 11:38:22:08
+	Finalizamos reindexado.
+
+23/11/2017 11:38:27:95
+	Finalizamos con éxito proceso de envío: [ENV][000879][20171123113820][101]
+
+23/11/2017 11:38:29:52
+	Ha fallado EjecutarInsertUpdate.
+sql: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = ''
+Code erreur : 73001
+
+Erreur du framework WDJava
+
+Failure running rstAux query.
+unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = ''
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = '')
+#################################################################
+
+The following error was returned by the <Represen500.db> database
+Error Number = <99>
+Error Message:
+
+unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = ''
+#################################################################
+Error Code : 1 (SQLITE_ERROR)
+Caused By : SQL(query) error or missing database.
+	(unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = '')
+#################################################################
+
+23/11/2017 11:38:29:52
+	No se ha podido actualizar el campo 'Estado' de la tabla 'Transacciones'
+
+0
+
+23/11/2017 12:59:57:48
+	Iniciamos proceso de envío: [ENV][000879][20171123125957][101]
+
+23/11/2017 12:59:58:08
+	DROP ClienteArticulo: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
+
+23/11/2017 12:59:58:16
+	DROP Rotaciones: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
+
+23/11/2017 12:59:58:29
+	DROP RotacionesFecha: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
+
+23/11/2017 12:59:58:32
+	DROP EstudioVentas: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
+
+23/11/2017 12:59:58:35
+	DROP Articulos: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
+
+23/11/2017 12:59:58:48
+	RepararDB: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
+
+23/11/2017 12:59:59:40
+	Finalizamos reindexado.
+
+23/11/2017 13:00:05:72
+	Finalizamos con éxito proceso de envío: [ENV][000879][20171123125957][101]
+
