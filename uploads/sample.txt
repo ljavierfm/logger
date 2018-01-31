@@ -1,422 +1,453 @@
-23/11/2017 10:13:03:16
-	Iniciamos proceso de recarga: [SYNC][000879][20171123101303][101]
-
-23/11/2017 10:13:25:06
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
-#################################################################
-
-The following error was returned by the <Represen500.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:07
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-
-23/11/2017 10:13:25:08
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
-#################################################################
-
-The following error was returned by the <Represen500.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:09
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-
-23/11/2017 10:13:25:10
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
-#################################################################
-
-The following error was returned by the <Represen500.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:11
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-
-23/11/2017 10:13:25:12
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
-#################################################################
-
-The following error was returned by the <Represen500.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:12
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-
-23/11/2017 10:13:25:14
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
-#################################################################
-
-The following error was returned by the <Represen500.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:14
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-
-23/11/2017 10:13:25:31
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
-#################################################################
-
-The following error was returned by the <OptimizaSync.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_OportunidadesTarea (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:31
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_OportunidadesTarea  TEXT
-
-23/11/2017 10:13:25:32
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
-#################################################################
-
-The following error was returned by the <OptimizaSync.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CobrosCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:32
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_CobrosCab  TEXT
-
-23/11/2017 10:13:25:33
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
-#################################################################
-
-The following error was returned by the <OptimizaSync.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CierreLiqCobrCab (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:33
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_CierreLiqCobrCab  TEXT
-
-23/11/2017 10:13:25:34
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
-#################################################################
-
-The following error was returned by the <OptimizaSync.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: Id_CargasPlantilla (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:34
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN Id_CargasPlantilla  TEXT
-
-23/11/2017 10:13:25:35
-	Ha fallado EjecutarInsertUpdate.
-sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
-#################################################################
-
-The following error was returned by the <OptimizaSync.db> database
-Error Number = <99>
-Error Message:
-
-duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(duplicate column name: ID_MensajesEnRuta (code 1): , while compiling: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT)
-#################################################################
-
-23/11/2017 10:13:25:36
-	No se ha podido crear el campo.
-Sql: ALTER TABLE Contadores ADD COLUMN ID_MensajesEnRuta  TEXT
-
-23/11/2017 10:13:25:71
-	Proceso de recarga finalizado con éxito: [SYNC][000879][20171123101303][101]
-
-23/11/2017 10:13:36:81
-	Ha fallado EjecutarInsertUpdate.
-sql: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = '')
-#################################################################
-
-The following error was returned by the <Represen500.db> database
-Error Number = <99>
-Error Message:
-
-unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(unrecognized token: "'[SYNC][000879][20171123101303][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[SYNC][000879][20171123101303][101]'' WHERE Paquete = '')
-#################################################################
-
-23/11/2017 10:13:36:81
-	No se ha podido actualizar el campo 'Estado' de la tabla 'Transacciones'
-
-0
-
-23/11/2017 11:38:20:11
-	Iniciamos proceso de envío: [ENV][000879][20171123113820][101]
-
-23/11/2017 11:38:20:73
-	DROP ClienteArticulo: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
-
-23/11/2017 11:38:20:81
-	DROP Rotaciones: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
-
-23/11/2017 11:38:20:94
-	DROP RotacionesFecha: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
-
-23/11/2017 11:38:20:98
-	DROP EstudioVentas: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
-
-23/11/2017 11:38:21:01
-	DROP Articulos: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
-
-23/11/2017 11:38:21:16
-	RepararDB: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123113820][101]/Optimiza.db
-
-23/11/2017 11:38:22:08
-	Finalizamos reindexado.
-
-23/11/2017 11:38:27:95
-	Finalizamos con éxito proceso de envío: [ENV][000879][20171123113820][101]
-
-23/11/2017 11:38:29:52
-	Ha fallado EjecutarInsertUpdate.
-sql: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = ''
-Code erreur : 73001
-
-Erreur du framework WDJava
-
-Failure running rstAux query.
-unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = ''
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = '')
-#################################################################
-
-The following error was returned by the <Represen500.db> database
-Error Number = <99>
-Error Message:
-
-unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = ''
-#################################################################
-Error Code : 1 (SQLITE_ERROR)
-Caused By : SQL(query) error or missing database.
-	(unrecognized token: "'[ENV][000879][20171123113820][101]'' WHERE Paquete = ''" (code 1): , while compiling: UPDATE Transacciones SET Paquete = '[ENV][000879][20171123113820][101]'' WHERE Paquete = '')
-#################################################################
-
-23/11/2017 11:38:29:52
-	No se ha podido actualizar el campo 'Estado' de la tabla 'Transacciones'
-
-0
-
-23/11/2017 12:59:57:48
-	Iniciamos proceso de envío: [ENV][000879][20171123125957][101]
-
-23/11/2017 12:59:58:08
-	DROP ClienteArticulo: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
-
-23/11/2017 12:59:58:16
-	DROP Rotaciones: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
-
-23/11/2017 12:59:58:29
-	DROP RotacionesFecha: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
-
-23/11/2017 12:59:58:32
-	DROP EstudioVentas: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
-
-23/11/2017 12:59:58:35
-	DROP Articulos: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
-
-23/11/2017 12:59:58:48
-	RepararDB: /storage/emulated/0/OPTIMIZA/Multisync/Envios/[ENV][000879][20171123125957][101]/Optimiza.db
-
-23/11/2017 12:59:59:40
-	Finalizamos reindexado.
-
-23/11/2017 13:00:05:72
-	Finalizamos con éxito proceso de envío: [ENV][000879][20171123125957][101]
+25/01/2018 09:20:50:00	Versión: 
+	La base de datos de OPTIMIZA no se encuentra en la ruta adecuada.
+
+
+
+25/01/2018 09:32:20:23	Versión: 
+	La base de datos de OPTIMIZA no se encuentra en la ruta adecuada.
+
+
+
+25/01/2018 09:35:26:38	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 09:35:27:62	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 10:02:29:14	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 10:02:31:32	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 10:02:32:39	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 10:03:26:87	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 10:03:29:00	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 10:03:58:78	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 10:04:01:04	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 10:07:38:24	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 10:07:39:35	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 10:07:46:44	Versión: 1.13
+	2018-01-25 10:07:46
+COMIENZO DE LA ORDEN : 18613642			18613644
+
+25/01/2018 10:19:33:19	Versión: 1.13
+	2018-01-25 10:19:33
+ABANDONO DE LA ORDEN : 18613642			18613644
+
+25/01/2018 10:19:43:60	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 10:19:48:50	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 10:20:10:92	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 10:20:14:44	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 12:24:47:38	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 12:25:07:21	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de datos para la solicitud de ordenes cercanas.
+
+25/01/2018 12:25:08:30	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de datos para la solicitud de ordenes cercanas.
+
+25/01/2018 12:25:13:55	Versión: 1.13
+	Llamada a la función de espera de confirmación de fichero de ordenes cercanas del WS...
+
+25/01/2018 12:25:18:56	Versión: 1.13
+	Recibida información del fichero de ordenes cercanas del servidor.
+18691674~JOSE ACEDO BARRAGAN~686339807~677941420~979~SEVILLA~CL PERAFAN DE RIBERA 251, 1º, IZQ~0
+18749083~MARIA DE LA CINTA MORAL CANO~656324775~~962~SEVILLA~CL AVICENA 7, 5º, 2~0
+18749445~IVAN MOLINA TOLEDO~654882561~~960~SEVILLA~CL ESPERANZA 14, BAJO, 1 D~0
+18530435~DANIEL CHAVES LAMEIRO~655078788~~963~SEVILLA~CL RESOLANA 37, 3º, 2~0
+18707462~JOAQUIN BALTASA MUÑOZ SPINOLA~664424042~954370955~963~SEVILLA~CL ESCOBEROS 11, PAL, D~0
+18500508~ANTONIO CARLOS RIO ARROYO~675092494~~960~SEVILLA~CL REPOSO 4, BAJO, 11~0
+18733838~ANA GARCIA RODRIGUEZ~685892468~~960~SEVILLA~CL DOCTOR MUÑOZ PERALTA 2, 3º, 2~0
+18531569~EMMA LOPEZ RUBIO~651779355~651779355~961~SEVILLA~CL PATRICIO SAENZ 22, escalera 1, 1º, E-D~0
+18732806~HERMINIA GARROTE BARRAGAN~686106701~~960~SEVILLA~CL SANTA CLARA 57, 1º, A~0
+18613498~ALEJANDRO VICENTE BRICEÑO GARCIA~608530659~~961~SEVILLA~PJ MARQUES DE ESQUIVEL 11, 2º, 5~0
+
+25/01/2018 12:25:18:58	Versión: 1.13
+	Eliminamos el acuse de recibo del directorio del ftp...
+
+25/01/2018 12:25:19:56	Versión: 1.13
+	Eliminamos el acuse de recibo del directorio del ftp...
+
+25/01/2018 12:28:54:89	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de ordenes cercanas seleccionadas.
+
+25/01/2018 12:28:57:73	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de ordenes cercanas seleccionadas.
+
+25/01/2018 12:29:02:86	Versión: 1.13
+	Llamada a la función de espera de ordenes cercanas asignadas del WS...
+
+25/01/2018 12:29:04:33	Versión: 1.13
+	Respuesta WebService : 
+
+25/01/2018 13:03:27:83	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 13:03:39:31	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 13:03:41:83	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 13:04:15:43	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de datos para la solicitud de ordenes cercanas.
+
+25/01/2018 13:04:16:36	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de datos para la solicitud de ordenes cercanas.
+
+25/01/2018 13:04:21:63	Versión: 1.13
+	Llamada a la función de espera de confirmación de fichero de ordenes cercanas del WS...
+
+25/01/2018 13:04:27:94	Versión: 1.13
+	Llamada a la función de espera de confirmación de fichero de ordenes cercanas del WS...
+
+25/01/2018 13:04:28:84	Versión: 1.13
+	Recibida información del fichero de ordenes cercanas del servidor.
+18598062~MARIA DEL CARMEN CARRANZA MARMOLEJO~627397070~~963~CASTILLEJA DE LA CUESTA~CL REINA SOFIA 89, 1º~0
+18483577~ANTONIO SANCHEZ YERGA~600203205~~960~CASTILLEJA DE LA CUESTA~CL CARLOS CANO 11, CASA~0
+18483580~ANTONIO SANCHEZ YERGA~600203205~~963~CASTILLEJA DE LA CUESTA~CL CARLOS CANO 11, CASA~0
+18734431~MARÍA DEL CARMEN GARCÍA SIRAGUSA~633731609~~960~GINES~AV DE EUROPA 45, BAJO~0
+18693362~MANUELA VAZQUEZ BROWATZKI~923250370~~960~CASTILLEJA DE LA CUESTA~CL JUAN CARLOS I 2, escalera F2 F, 9º, 2~0
+18598760~JUAN CARLOS CERREDO DOMINGUEZ~656945430~~960~BORMUJOS~CL BALCON DE LA ALPUJARRA 2, BAJO~0
+18501492~MARIA ELIA BEJARANO PEREZ~664301651~~960~CAMAS~CL JAEN 1, BAJO~0
+18733069~JOSE MARIA CAMPOS HINESTROSA~625084146~~961~TOMARES~CL ANTONIO MAIRENA 9, 1º, B~0
+18625379~ELADIA GOMEZ SACRISTAN~636650261~636650261~962~TOMARES~CL ADARAJA 10, 2º, 3~0
+18616096~SARA MARIA POZO LAVADO~666958179~~960~CASTILLEJA DE GUZMAN~CL GRANADA 34, BAJO~0
+
+25/01/2018 13:04:28:91	Versión: 1.13
+	Eliminamos el acuse de recibo del directorio del ftp...
+
+25/01/2018 13:04:29:85	Versión: 1.13
+	Eliminamos el acuse de recibo del directorio del ftp...
+
+25/01/2018 13:06:13:38	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de ordenes cercanas seleccionadas.
+
+25/01/2018 13:06:14:51	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de ordenes cercanas seleccionadas.
+
+25/01/2018 13:06:19:66	Versión: 1.13
+	Llamada a la función de espera de ordenes cercanas asignadas del WS...
+
+25/01/2018 13:06:20:53	Versión: 1.13
+	Respuesta WebService : OrdenesAsignadas~0
+OrdenesNoAsignadas~0
+
+
+25/01/2018 13:06:20:62	Versión: 1.13
+	Recibida respuesta del fichero de ordenes cercanas asignadas del servidor.
+OrdenesAsignadas~0
+OrdenesNoAsignadas~0
+
+
+25/01/2018 13:06:26:41	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 13:06:27:84	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 13:32:57:01	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 15:16:09:27	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 15:16:11:50	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:16:14:33	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:16:24:67	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:16:26:06	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:16:32:84	Versión: 1.13
+	2018-01-25 15:16:32
+COMIENZO DE LA ORDEN : 18598141			18598144
+
+25/01/2018 15:24:22:22	Versión: 1.13
+	Se ha creado el aparato : Calentador Gas para la orden 18598141
+
+25/01/2018 15:30:52:55	Versión: 1.13
+	Se ha creado el aparato : Lavadora eléctrica para la orden 18598141
+
+25/01/2018 15:31:26:30	Versión: 1.13
+	Se ha creado el aparato : Secadora eléctrica para la orden 18598141
+
+25/01/2018 15:32:02:45	Versión: 1.13
+	Se ha creado el aparato : Frigorífico eléctrico para la orden 18598141
+
+25/01/2018 15:32:55:17	Versión: 1.13
+	Se ha creado el aparato : Vitrocerámica eléctrica para la orden 18598141
+
+25/01/2018 15:33:19:44	Versión: 1.13
+	Se ha creado el aparato : Horno eléctrico para la orden 18598141
+
+25/01/2018 15:40:47:72	Versión: 1.13
+	NO SE PUEDE ADQUIRIR EL SOCKET
+
+25/01/2018 15:40:55:30	Versión: 1.13
+	Se ha realizado la impresión de la orden :18598141
+
+25/01/2018 15:41:05:72	Versión: 1.13
+	2018-01-25 15:41:05
+FINALIZACIÓN DE LA ORDEN : 18598141	18598144
+
+25/01/2018 15:41:08:05	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 15:41:10:97	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 15:49:36:54	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 15:49:45:91	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:49:46:94	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:49:53:36	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:49:54:34	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 15:50:02:72	Versión: 1.13
+	2018-01-25 15:50:02
+COMIENZO DE LA ORDEN : 18596284
+
+25/01/2018 15:57:10:97	Versión: 1.13
+	Se ha creado el aparato : Frigorífico eléctrico para la orden 18596284
+
+25/01/2018 15:57:35:76	Versión: 1.13
+	Se ha creado el aparato : Horno eléctrico para la orden 18596284
+
+25/01/2018 15:57:55:62	Versión: 1.13
+	Se ha creado el aparato : Lavadora eléctrica para la orden 18596284
+
+25/01/2018 15:58:19:22	Versión: 1.13
+	Se ha creado el aparato : Vitrocerámica eléctrica para la orden 18596284
+
+25/01/2018 16:01:18:17	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 16:01:46:93	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:01:49:32	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:02:25:59	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:02:28:00	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:02:36:19	Versión: 1.13
+	2018-01-25 16:02:36
+COMIENZO DE LA ORDEN : 18596284
+
+25/01/2018 16:05:37:22	Versión: 1.13
+	NO SE PUEDE ADQUIRIR EL SOCKET
+
+25/01/2018 16:05:41:73	Versión: 1.13
+	Se ha realizado la impresión de la orden :18596284
+
+25/01/2018 16:05:50:25	Versión: 1.13
+	2018-01-25 16:05:50
+FINALIZACIÓN DE LA ORDEN : 18596284
+
+25/01/2018 16:05:52:16	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 16:05:56:21	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 16:29:14:87	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 16:29:16:78	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:29:18:00	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:30:03:52	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:30:04:44	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:30:47:75	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de datos para la solicitud de ordenes cercanas.
+
+25/01/2018 16:30:49:22	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de datos para la solicitud de ordenes cercanas.
+
+25/01/2018 16:30:54:55	Versión: 1.13
+	Llamada a la función de espera de confirmación de fichero de ordenes cercanas del WS...
+
+25/01/2018 16:30:56:16	Versión: 1.13
+	Recibida información del fichero de ordenes cercanas del servidor.
+18766349~ANDREA CONTE~633854125~~968~TOMARES~CL MAESTRA ANTONIA CARACUEL 23, BAJO~0
+18766229~JUAN MANUEL SANCHEZ CARRASCAL~663888559~~963~ESPARTINAS~AV DOÑANA 6, BAJO~0
+
+25/01/2018 16:30:56:21	Versión: 1.13
+	Eliminamos el acuse de recibo del directorio del ftp...
+
+25/01/2018 16:30:57:22	Versión: 1.13
+	Eliminamos el acuse de recibo del directorio del ftp...
+
+25/01/2018 16:31:16:73	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de ordenes cercanas seleccionadas.
+
+25/01/2018 16:31:17:98	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de ordenes cercanas seleccionadas.
+
+25/01/2018 16:31:23:16	Versión: 1.13
+	Llamada a la función de espera de ordenes cercanas asignadas del WS...
+
+25/01/2018 16:31:24:23	Versión: 1.13
+	Respuesta WebService : OrdenesAsignadas~2
+OrdenesNoAsignadas~0
+
+
+25/01/2018 16:31:24:38	Versión: 1.13
+	Recibida respuesta del fichero de ordenes cercanas asignadas del servidor.
+OrdenesAsignadas~2
+OrdenesNoAsignadas~0
+
+
+25/01/2018 16:31:25:99	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 16:31:29:57	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 16:31:32:86	Versión: 1.13
+	SE HA PULSADO SINCRONIZAR. SE VA A REALIZAR UNA RECARGA FORZADA
+
+25/01/2018 16:33:03:82	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:33:05:48	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:33:38:66	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:33:39:77	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 16:33:46:48	Versión: 1.13
+	2018-01-25 16:33:46
+COMIENZO DE LA ORDEN : 18753227			18766229
+
+25/01/2018 16:52:29:24	Versión: 1.13
+	Se ha creado el aparato : Frigorífico eléctrico para la orden 18753227
+
+25/01/2018 16:53:23:85	Versión: 1.13
+	Se ha creado el aparato : Horno eléctrico para la orden 18753227
+
+25/01/2018 17:00:55:21	Versión: 1.13
+	Se ha creado el aparato : Calentador Gas para la orden 18753227
+
+25/01/2018 17:01:58:12	Versión: 1.13
+	Se ha creado el aparato : Lavadora eléctrica para la orden 18753227
+
+25/01/2018 17:02:26:38	Versión: 1.13
+	Se ha creado el aparato : Vitrocerámica eléctrica para la orden 18753227
+
+25/01/2018 17:03:34:23	Versión: 1.13
+	NO SE PUEDE ADQUIRIR EL SOCKET
+
+25/01/2018 17:03:41:15	Versión: 1.13
+	Se ha realizado la impresión de la orden :18753227
+
+25/01/2018 17:03:54:20	Versión: 1.13
+	2018-01-25 17:03:54
+FINALIZACIÓN DE LA ORDEN : 18753227	18766229
+
+25/01/2018 17:03:56:06	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 17:04:17:84	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 17:04:20:14	Versión: 1.13
+	No se ha podido realizar el envío correctamente. 
+
+
+25/01/2018 17:07:03:02	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 17:07:05:90	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 17:07:07:51	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 17:32:12:28	Versión: 1.13
+	SE HA CERRADO INCORRECTAMENTE LA APLICACIÓN.
+
+25/01/2018 17:32:14:63	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 17:32:17:20	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 17:33:13:13	Versión: 1.13
+	Iniciamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 17:33:14:12	Versión: 1.13
+	Finalizamos el tratamiento del WebService de comprobación de Fecha y Hora actual.
+
+25/01/2018 17:33:20:91	Versión: 1.13
+	2018-01-25 17:33:20
+COMIENZO DE LA ORDEN : 18766349
+
+25/01/2018 18:13:44:69	Versión: 1.13
+	NO SE PUEDE ADQUIRIR EL SOCKET
+
+25/01/2018 18:13:47:61	Versión: 1.13
+	Se ha realizado la impresión de la orden :18766349
+
+25/01/2018 18:13:53:47	Versión: 1.13
+	2018-01-25 18:13:53
+FINALIZACIÓN DE LA ORDEN : 18766349
+
+25/01/2018 18:13:55:88	Versión: 1.13
+	Iniciamos el tratamiento del WebService de Envio de la Base de datos.
+
+25/01/2018 18:14:01:36	Versión: 1.13
+	Finalizamos el tratamiento del WebService de Envio de la Base de datos.
 

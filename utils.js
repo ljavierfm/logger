@@ -1,7 +1,10 @@
 const readline = require('readline');
 const fs=require('fs');
+const S = require('string');
+const _=require('lodash');
 
-const cadenaInicio='COMIENZO DE LA ORDEN :';
+let cadenaInicio='COMIENZO DE LA ORDEN : ';
+
 
 function obtenerOrdenes(fichero){
     let ordenes=[];
@@ -11,19 +14,23 @@ function obtenerOrdenes(fichero){
     });
     
     rl.on('line',(line)=>{
-        if(cadenaInicio.indexOf(line)>-1){
-            console.log(line);
+        if(S(line).contains(cadenaInicio)){
+            let ordenLinea=extraerOrdenDeLinea(line);
+            ordenes=_.concat(ordenes,ordenLinea);
         }
-        else{
-            console.log('no contiene');
-        }
+    });
+
+    rl.on('close',()=>{
+        ordenes=_.uniq(ordenes);
     });
 }
 
-
+function extraerOrdenDeLinea(cadena){
+    let ordenCadena=_.trim(cadena,cadenaInicio);
+    let tmpArrayOrdenes=_.split(ordenCadena,"\t\t\t");
+    return tmpArrayOrdenes;
+}
 
 module.exports = {
-    firstName: 'James',
-    lastName: 'Bond',
     obtenerOrdenes
 }
